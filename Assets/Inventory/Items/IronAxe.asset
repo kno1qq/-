@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 495ce2f5c7ba2524da81a5fc3adc9027, type: 3}
+  m_Name: IronAxe
+  m_EditorClassIdentifier: 
+  itemObject: {fileID: 7129435783914593668, guid: bd2876e04fed7264281f248af1b63332, type: 3}
+  itemName: IronAxe
+  itemImage: {fileID: 21300000, guid: 19df3186f2c6f7243be8cd9d8553c128, type: 3}
+  itemHeld: 1
+  itemInfo: "\u311F\u4E0D\u5C0D\u70BA\u4EC0\u9EBC\u662F\u85CD\u8272\u7684??"
+  equip: 1
